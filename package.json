@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "hltv-api": "^3.0.3",
+    "node": "^19.6.1"
+  },
+  "name": "hltv-bot-discord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mth3430/hltv-bot-discord.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mth3430/hltv-bot-discord/issues"
+  },
+  "homepage": "https://github.com/Mth3430/hltv-bot-discord#readme",
+  "description": ""
+}
